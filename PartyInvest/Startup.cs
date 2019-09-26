@@ -14,6 +14,7 @@ namespace PartyInvest
 {
     public class Startup
     {
+        //gjnlgijnkghrgj ligun;tgi
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
